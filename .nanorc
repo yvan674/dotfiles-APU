@@ -1,0 +1,8 @@
+include /usr/share/nano/*.nanorc
+include ~/.config/fish.nanorc
+
+set linenumbers
+set constantshow
+
+set tabsize 4
+set tabstospaces
